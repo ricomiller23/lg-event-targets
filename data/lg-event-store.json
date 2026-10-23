@@ -1,7 +1,7 @@
 {
   "metadata": {
     "event": "LG Event & OTC Screener Cohort 2026",
-    "generatedAt": "2026-10-23T14:12:52.327Z",
+    "generatedAt": "2026-10-23T16:59:58.931Z",
     "dataSource": "Official SEC EDGAR XBRL & Submissions Index",
     "totalTargets": 417,
     "secFilersCount": 371,
@@ -61667,5 +61667,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-23T14:12:52.328Z"
+  "updatedAt": "2026-10-23T16:59:58.932Z"
 }
