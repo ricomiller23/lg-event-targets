@@ -155,7 +155,7 @@ class LGTargetStore {
     this.init();
     const all = Array.from(this.targets.values());
     return {
-      event: "Maxim Growth Conference 2026",
+      event: this.metadata.event || "LG Event & OTC Screener Cohort",
       generatedAt: new Date().toISOString(),
       dataSource: "Official SEC EDGAR XBRL & Submissions Index",
       totalTargets: all.length,
